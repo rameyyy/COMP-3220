@@ -1,4 +1,5 @@
-COMP-3220 at Auburn University<b>
-Principles of Programming Languages<b>
-Ruby & Scheme<b>
-Professor Sardinas
+Auburn University<br>
+COMP-3220<br>
+Principles of Programming Languages<br>
+Professor Sardinas <br>
+Ruby & Scheme
